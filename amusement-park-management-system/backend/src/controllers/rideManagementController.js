@@ -1,0 +1,1 @@
+Manages ride data including waits, restrictions, and safety
