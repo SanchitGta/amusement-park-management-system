@@ -1,0 +1,1 @@
+User data model including roles and authentication methods
