@@ -1,0 +1,1 @@
+Ride data model for management and safety tracking
