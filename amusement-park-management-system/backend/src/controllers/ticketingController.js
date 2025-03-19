@@ -1,0 +1,1 @@
+Handles ticket booking, validation, and pricing logic
