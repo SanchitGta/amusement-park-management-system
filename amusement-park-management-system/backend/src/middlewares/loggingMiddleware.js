@@ -1,0 +1,1 @@
+Logs requests for monitoring
