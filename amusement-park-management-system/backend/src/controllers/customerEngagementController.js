@@ -1,0 +1,1 @@
+Handles AI recommendations and navigation
