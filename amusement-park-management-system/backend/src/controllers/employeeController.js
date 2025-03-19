@@ -1,0 +1,1 @@
+Controls staff schedules and ride operator interfaces
