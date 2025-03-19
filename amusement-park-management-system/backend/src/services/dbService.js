@@ -1,0 +1,1 @@
+Service for database interactions with PostgreSQL and Redis
